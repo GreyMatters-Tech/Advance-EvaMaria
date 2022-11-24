@@ -1,6 +1,6 @@
 ## • What's New ?
 
-- ⟴ URL Shortener Added
+- ⟴ Search in PM
 - ⟴ Self Delete Added (Auto delete)
 - ⟴ Filter On Off Option Added
 - ⟴ Custom Welcome Message
@@ -40,7 +40,7 @@
 - [x] File Store
 ## Variables
 
-Read [this](https://telegram.dog/sources_cods) before you start messing up with your edits.
+Read [this](https://telegram.dog/GreyMatter_Bots) before you start messing up with your edits.
 
 ### Required Variables
 * `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
@@ -78,7 +78,7 @@ You can deploy this bot anywhere.
 </p>
 </details>
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/GreyMattersBot/url-auto-delete-shortener-bot&branch=koyeb&name=urlshortautofilterbot)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/Greymattersbot/Advance-EvaMaria&branch=koyeb&name=urlshortautofilterbot)
 
 <details><summary>Deploy To VPS</summary>
 <p>
@@ -124,10 +124,6 @@ link - to create link for one post
 ## Support
 [![telegram badge](https://img.shields.io/badge/Telegram-Group-30302f?style=flat&logo=telegram)](https://t.me/greymatters_bots_discussion)
 [![telegram badge](https://img.shields.io/badge/Telegram-Channel-30302f?style=flat&logo=telegram)](https://t.me/greymatter_bots)
-
-## Credits 
-* [![ᎯℕUℛᎯᎶ](https://img.shields.io/static/v1?label=EvaMaria&message=devs&color=critical)](https://telegram.dog/sources_cods)
-
 
 ## Thanks to 
  - Thanks To Dan For His Awesome [Library](https://github.com/pyrogram/pyrogram)

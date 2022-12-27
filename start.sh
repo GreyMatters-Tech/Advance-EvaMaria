@@ -4,7 +4,7 @@ then
 
   echo "Cloning main Repository"
 
-  git clone https://github.com/Greymattersbot/EvaMaria /EvaMaria
+  git clone https://github.com/k-n-o-x/Advance-EvaMaria
 
 else
 

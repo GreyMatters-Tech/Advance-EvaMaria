@@ -427,7 +427,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             InlineKeyboardButton('⚚ ΛᎠᎠ MΞ ϮԾ YԾUᏒ GᏒԾUᎮ ⚚', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
         ], [
             InlineKeyboardButton('⚡ SUBSCᏒIBΞ ⚡', url='https://t.me/Pikachunub'),
-            InlineKeyboardButton('📣 UᎮDΛTΞS 📣', url='{script.HOME_BUTTONURL_UPDATES')
+            InlineKeyboardButton('💡 SUGGESTION 💡', url='https://t.me/ALLiNOnESUGGESTIONPN')
         ], [
             InlineKeyboardButton('❗HΞLᎮ❗', callback_data='help'),
             InlineKeyboardButton('⚠️ ΛBOUT ⚠️', callback_data='about')

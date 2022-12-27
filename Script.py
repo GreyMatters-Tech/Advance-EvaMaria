@@ -11,18 +11,16 @@ def is_enabled(value, default):
         return default
 
 class script(object):
-    START_TXT = environ.get("START_TXT", '''<b>Hello {} 👋🏻 Im Search Bot I can share Movies and Series 😁.</b>
+    START_TXT = environ.get("START_TXT", '''<b>Hello {} 👋🏻 𝐈'𝐦 𝐓𝐞𝐬𝐬𝐚 𝐈 𝐂𝐚𝐧 𝐏𝐫𝐨𝐯𝐢𝐝𝐞 𝐌𝐨𝐯𝐢𝐞𝐬 & 𝐒𝐞𝐫𝐢𝐞𝐬 🧚‍♂️.</b>
 
-<i>Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ sᴇᴇ ᴛʜᴇ ᴍᴀɢɪᴄ ᴏʀ ʀᴇᴀᴅ ᴍᴏʀᴇ ғʀᴏᴍ ᴛʜᴇ ᴍᴇɴᴜ ʙᴇʟᴏᴡ</i>''')
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
-    ABOUT_TXT = """<b><i>🤖 ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/Search_zone_bot><b>Search Bot</b></a>\n
-👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/GreyMatter_Owner><b>GreyMatter</b></a>\n
-📝 ʟᴀɴɢᴜᴀɢᴇ : ᴘʏʀᴏɢʀᴀᴍ\n
-📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏᴛʜᴏɴ 3\n
-📡 ʜᴏsᴛᴇᴅ ᴏɴ : VPS\n
-📢 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/GreyMatter_Bots><b></b>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
-🌟 ᴠᴇʀsɪᴏɴ : ᴠ 4.0\n</b></i>"""
+    ABOUT_TXT = """<b><i>🤖 ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/Pikachunubmovie_bot><b>Search Bot</b></a>\n
+👨‍💻 𝐀𝐝𝐦𝐢𝐧 : <a href=https://t.me/Pikachunubadmin_bot><b>𝐀𝐃𝐌𝐢𝐍</b></a>\n
+🅿️ 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 : 𝐏𝐲𝐭𝐡𝐨𝐧 𝟑\n
+📡 𝐇𝐨𝐬𝐭𝐞𝐝 𝐨𝐧 : 𝐇𝐞𝐫𝐨𝐤𝐮\n
+📢 𝐂𝐡𝐚𝐧𝐧𝐞𝐥 : <a href=https://t.me/+gZi9TiIcKA84Y2Y1><b></b>𝐆𝐫𝐨𝐮𝐩</a>\n
+🌟 𝐕𝐞𝐫𝐬𝐢𝐨𝐧 : 𝐋𝐚𝐭𝐞𝐬𝐭\n</b></i>"""
     SOURCE_TXT = """<b>𝐂𝐫𝐞𝐚𝐭𝐞 𝐎𝐧𝐞 𝐋𝐢𝐤𝐞 𝐓𝐡𝐢𝐬:</b>
 » I will Create One Bot For You<b>
 » Contact Me @GreyMatter_Owner<b>"""

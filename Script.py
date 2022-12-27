@@ -15,7 +15,7 @@ class script(object):
 
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
-    ABOUT_TXT = """<b><i>🤖 ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/Pikachunubmovie_bot><b>Search Bot</b></a>\n
+    ABOUT_TXT = """<b><i>🧚‍♂️ 𝐌𝐲 𝐍𝐚𝐦𝐞 : <a href=https://t.me/Pikachunubmovie_bot><b>Search Bot</b></a>\n
 👨‍💻 𝐀𝐝𝐦𝐢𝐧 : <a href=https://t.me/Pikachunubadmin_bot><b>𝐀𝐃𝐌𝐢𝐍</b></a>\n
 🅿️ 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞 : 𝐏𝐲𝐭𝐡𝐨𝐧 𝟑\n
 📡 𝐇𝐨𝐬𝐭𝐞𝐝 𝐨𝐧 : 𝐇𝐞𝐫𝐨𝐤𝐮\n

@@ -1,4 +1,4 @@
-git+https://github.com/Joelkb/cinemagoer
+https://github.com/k-n-o-x/Advance-EvaMaria
 pyrogram>=2.0.30
 tgcrypto
 pymongo[srv]==3.12.3
@@ -12,3 +12,8 @@ heroku3
 pynewtonmath
 pytz
 aiohttp
+Flask==2.2.2
+
+gunicorn==20.1.0
+
+aiohttp==3.8.1

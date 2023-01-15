@@ -64,6 +64,22 @@ Read [this](https://telegram.dog/GreyMatter_Bots) before you start messing up wi
 * `ABOUT_TXT`: Enter Your About Message 
 
 
+<details><summary>Deploy To Render {Free}</summary>
+
+<p>
+
+<br>
+
+<a href="https://dashboard.render.com/select-repo?type=web">
+
+  <img src="https://render.com/images/deploy-to-render-button.svg" alt="deploy-to-render">
+
+  </a>
+
+  </p>
+
+  <p>
+
 ## Deploy
 You can deploy this bot anywhere.
 

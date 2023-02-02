@@ -81,6 +81,6 @@ DOWNLOAD_TEXT_URL = "https://t.me/OTT_Updated"
 
    # Custom Caption Under Button #
 CAPTION_BUTTON = "Subscribe"
-CAPTION_BUTTON_URL = "https://youtube.com/@GreyMattersYat"
+CAPTION_BUTTON_URL = "https://youtube.com/@GreyMattersYT"
 
    # Auto Delete For Bot Sending Files #

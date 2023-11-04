@@ -11,17 +11,17 @@ def is_enabled(value, default):
         return default
 
 class script(object):
-    START_TXT = environ.get("START_TXT", '''<b>Hello {} 👋🏻 I'm OTT Search Bot I can share Movies and Series 😁.</b>
+    START_TXT = environ.get("START_TXT", '''<b>Hello {} 👋🏻 I'm @COBRAKAI35 movie search bot and I can help you search for movies and tv series😁.</b>
 
-<i>Aᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘ ᴛᴏ sᴇᴇ ᴛʜᴇ ᴍᴀɢɪᴄ ᴏʀ ʀᴇᴀᴅ ᴍᴏʀᴇ ғʀᴏᴍ ᴛʜᴇ ᴍᴇɴᴜ ʙᴇʟᴏᴡ</i>''')
+Add me to your groups and send in the name of the movie you want and see the magic I perform.😌🎥🔥''')
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝙼𝚈 𝙷𝙴𝙻𝙿 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
-    ABOUT_TXT = """<b><i>🤖 ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/OTT_Movies_Search_Bot><b>OTT Search Bot</b></a>\n
+    ABOUT_TXT = """<b><i>🤖 ᴍʏ ɴᴀᴍᴇ : <a href=https://t.me/Wovenu_bot><b>COBRAKAI35 MOVIE SEARCH BOT</b></a>\n
 👨‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ : <a href=https://t.me/GreyMatter_Owner><b>GreyMatter's</b></a>\n
 📝 ʟᴀɴɢᴜᴀɢᴇ : ᴘʏʀᴏɢʀᴀᴍ\n
 📚 ꜰʀᴀᴍᴇᴡᴏʀᴋ : ᴘʏᴛʜᴏɴ 3\n
 📡 ʜᴏsᴛᴇᴅ ᴏɴ : VPS\n
-📢 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/OTT_Upatded><b></b>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
+📢 ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ : <a href=https://t.me/COBRAKAI35><b></b>ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>\n
 🌟 ᴠᴇʀsɪᴏɴ : ᴠ 4.0\n</b></i>"""
     SOURCE_TXT = """<b>𝐂𝐫𝐞𝐚𝐭𝐞 𝐎𝐧𝐞 𝐋𝐢𝐤𝐞 𝐓𝐡𝐢𝐬:</b>
 » I will Create One Bot For You<b>
